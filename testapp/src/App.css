@@ -1,0 +1,65 @@
+.header{
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.search-bar{
+  width: 300px;
+  height: 32px;
+  margin: 10px;
+  padding: 0px 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+.search-button{
+  padding: 5px 10px;
+  border: 1px solid darkseagreen;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+}
+.search-count{
+  margin: 0px;
+    text-align: right;
+    margin-right: 344px;
+    font-size: 14px;
+}
+
+
+.flex-container{
+  display: inline-block;
+}
+
+.card{
+  width: 437px;
+  height: 180px;
+  border: 1px solid grey;
+  margin: 5px;
+  display: flex;
+  float: left;
+
+}
+
+.left-card{
+  width: 100px;
+  padding: 5px;
+  background-color: #d7e3df;
+}
+.right-card{
+  padding: 10px;
+  background-color:#d7e3df;
+}
+
+.collectionName{
+  margin: 0;
+  font-size: 18px;
+}
+.artistName{
+  margin: 0;
+ color: #1787f5;
+}
+
+.audio-control{
+  margin-top: 10px;
+}
